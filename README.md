@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @20OO
-- 👀 I’m interested in makings vid on yt
-- 🌱 I’m currently learning css
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg">
@@ -24,3 +21,6 @@
 </div>
 
 ###
+- 👋 Hi, I’m @20OO
+- 👀 I’m interested in makings vid on yt
+- 🌱 I’m currently learning css
