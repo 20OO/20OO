@@ -21,6 +21,7 @@
 </div>
 
 ###
+https://count.getloli.com/@test?theme=booru-qualityhentais&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto
 - 👋 Hi, I’m @20OO
 - 👀 I’m interested in makings vid on yt
 - 🌱 I’m currently learning css
