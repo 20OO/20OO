@@ -7,18 +7,9 @@
 
 ---
 
-## 🎮 GitHub Contribution Animations
+## 🎮 GitHub Contribution Animation
 
 <p align="center">
-  <!-- Pacman Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.gifthubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-  
-  <br/><br/>
-
   <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
