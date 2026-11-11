@@ -1,50 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-###
-
-<img src="https://raw.githubusercontent.com/20OO/20OO/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=20OO.20OO&"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/8e/1b/67/8e1b679522ccab3a63a3268513e42309.gif"  />
-</div>
-
-###
+<h1 align="center">Hi there, I'm @20OO 👋</h1>
 
 <p align="center">
-  <br/><br/>
-  <img src='https://count.getloli.com/@gerdaroot?name=20oo&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  <img src="https://github-readme-stats-pearl-delta-52.vercel.app/api?username=20oo&show_icons=true&theme=highcontrast&hide_border=true" width="400px"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=20oo&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
-  <img width="400px" src="https://github-readme-stats-pearl-delta-52.vercel.app/api/top-langs/?username=20oo&layout=compact&theme=highcontrast&hide_border=true" />
+  👀 I’m interested in making videos on YouTube<br>
+  🌱 I’m currently learning CSS
 </p>
-- 👋 Hi, I’m @20OO
-- 👀 I’m interested in makings vid on yt
-- 🌱 I’m currently learning css
+
+---
+
+## 🎮 GitHub Contribution Animations
+
+<p align="center">
+  <!-- Pacman Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.gifthubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/20OO/20OO/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+  
+  <br/><br/>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats-pearl-delta-52.vercel.app/api?username=20oo&show_icons=true&theme=highcontrast&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-pearl-delta-52.vercel.app/api/top-langs/?username=20oo&layout=compact&theme=highcontrast&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=20oo&count_private=true&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://count.getloli.com/@gerdaroot?name=20oo&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="48%" />
+</p>
+
+---
+
+## ✨ Fun & Visitor Badge
+
+<div align="center">
+  <img height="180" src="https://i.pinimg.com/originals/8e/1b/67/8e1b679522ccab3a63a3268513e42309.gif" />
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=20OO.20OO&" />
+</div>
