@@ -22,7 +22,6 @@
 
 ```yaml
 username: 20OO
-location: Vietnam
 interests:
   - YouTube & Video Creation
   - Web Design
